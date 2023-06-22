@@ -1,0 +1,9 @@
+#Print statement in Python 2
+print "hello world"
+print 'hello world'
+
+print statement in Python 3
+print("hello world")
+print('hello world')
+
+
